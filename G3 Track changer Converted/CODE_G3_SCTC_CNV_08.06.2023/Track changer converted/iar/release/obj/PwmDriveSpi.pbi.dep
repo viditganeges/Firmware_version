@@ -1,0 +1,11 @@
+PwmDriveSpi.pbi: \
+  F:\Ren\Given\ to\ Ganges\05-03-2021\Track\ Changer\Source\SPI\PwmDriveSpi.c \
+  F:\Ren\Given\ to\ Ganges\05-03-2021\Track\ Changer\Source\SPI/PwmDriveSpi.h \
+  F:\Ren\Given\ to\ Ganges\05-03-2021\Track\ Changer\Source\SPI/spi.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  D:\\Technical\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdbool.h

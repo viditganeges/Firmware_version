@@ -1,0 +1,1001 @@
+1613 1669965827341 XXXX 1669965827341, Thread 1613: XXXX 1669965827341, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965827440 XXXX 1669965827440, Thread 1613: XXXX 1669965827440, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965827441 XXXX 1669965827441, Thread 1613: XXXX 1669965827441, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965827541 XXXX 1669965827541, Thread 1613: XXXX 1669965827541, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965827542 XXXX 1669965827542, Thread 1613: XXXX 1669965827542, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965827642 XXXX 1669965827642, Thread 1613: XXXX 1669965827642, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965827643 XXXX 1669965827643, Thread 1613: XXXX 1669965827643, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965827743 XXXX 1669965827743, Thread 1613: XXXX 1669965827743, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965827744 XXXX 1669965827744, Thread 1613: XXXX 1669965827744, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965827844 XXXX 1669965827844, Thread 1613: XXXX 1669965827844, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965827845 XXXX 1669965827845, Thread 1613: XXXX 1669965827845, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965827944 XXXX 1669965827944, Thread 1613: XXXX 1669965827944, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965827945 XXXX 1669965827945, Thread 1613: XXXX 1669965827945, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965828044 XXXX 1669965828044, Thread 1613: XXXX 1669965828044, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965828045 XXXX 1669965828045, Thread 1613: XXXX 1669965828045, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965828144 XXXX 1669965828144, Thread 1613: XXXX 1669965828144, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965828145 XXXX 1669965828145, Thread 1613: XXXX 1669965828145, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965828245 XXXX 1669965828245, Thread 1613: XXXX 1669965828245, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965828246 XXXX 1669965828246, Thread 1613: XXXX 1669965828246, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965828346 XXXX 1669965828346, Thread 1613: XXXX 1669965828346, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965828347 XXXX 1669965828347, Thread 1613: XXXX 1669965828347, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965828446 XXXX 1669965828446, Thread 1613: XXXX 1669965828446, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965828447 XXXX 1669965828447, Thread 1613: XXXX 1669965828447, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965828547 XXXX 1669965828547, Thread 1613: XXXX 1669965828547, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965828547 XXXX 1669965828547, Thread 1613: XXXX 1669965828547, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965828647 XXXX 1669965828647, Thread 1613: XXXX 1669965828647, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965828648 XXXX 1669965828648, Thread 1613: XXXX 1669965828648, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965828747 XXXX 1669965828747, Thread 1613: XXXX 1669965828747, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965828748 XXXX 1669965828748, Thread 1613: XXXX 1669965828748, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965828847 XXXX 1669965828847, Thread 1613: XXXX 1669965828847, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965828848 XXXX 1669965828848, Thread 1613: XXXX 1669965828848, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965828947 XXXX 1669965828947, Thread 1613: XXXX 1669965828947, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965828948 XXXX 1669965828948, Thread 1613: XXXX 1669965828948, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965829048 XXXX 1669965829048, Thread 1613: XXXX 1669965829048, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965829049 XXXX 1669965829049, Thread 1613: XXXX 1669965829049, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965829148 XXXX 1669965829148, Thread 1613: XXXX 1669965829148, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965829149 XXXX 1669965829149, Thread 1613: XXXX 1669965829149, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965829249 XXXX 1669965829249, Thread 1613: XXXX 1669965829249, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965829250 XXXX 1669965829250, Thread 1613: XXXX 1669965829250, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965829349 XXXX 1669965829349, Thread 1613: XXXX 1669965829349, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965829350 XXXX 1669965829350, Thread 1613: XXXX 1669965829350, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965829449 XXXX 1669965829449, Thread 1613: XXXX 1669965829449, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965829450 XXXX 1669965829450, Thread 1613: XXXX 1669965829450, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965829549 XXXX 1669965829549, Thread 1613: XXXX 1669965829549, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965829550 XXXX 1669965829550, Thread 1613: XXXX 1669965829550, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965829649 XXXX 1669965829649, Thread 1613: XXXX 1669965829649, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965829650 XXXX 1669965829650, Thread 1613: XXXX 1669965829650, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965829749 XXXX 1669965829749, Thread 1613: XXXX 1669965829749, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965829750 XXXX 1669965829750, Thread 1613: XXXX 1669965829750, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965829849 XXXX 1669965829849, Thread 1613: XXXX 1669965829849, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965829850 XXXX 1669965829850, Thread 1613: XXXX 1669965829850, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965829949 XXXX 1669965829949, Thread 1613: XXXX 1669965829949, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965829950 XXXX 1669965829950, Thread 1613: XXXX 1669965829950, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965830049 XXXX 1669965830049, Thread 1613: XXXX 1669965830049, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965830050 XXXX 1669965830050, Thread 1613: XXXX 1669965830050, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965830149 XXXX 1669965830149, Thread 1613: XXXX 1669965830149, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965830150 XXXX 1669965830150, Thread 1613: XXXX 1669965830150, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965830249 XXXX 1669965830249, Thread 1613: XXXX 1669965830249, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965830250 XXXX 1669965830250, Thread 1613: XXXX 1669965830250, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965830349 XXXX 1669965830349, Thread 1613: XXXX 1669965830349, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965830350 XXXX 1669965830350, Thread 1613: XXXX 1669965830350, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965830450 XXXX 1669965830450, Thread 1613: XXXX 1669965830450, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965830451 XXXX 1669965830451, Thread 1613: XXXX 1669965830451, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965830551 XXXX 1669965830551, Thread 1613: XXXX 1669965830551, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965830552 XXXX 1669965830552, Thread 1613: XXXX 1669965830552, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965830651 XXXX 1669965830651, Thread 1613: XXXX 1669965830651, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965830652 XXXX 1669965830652, Thread 1613: XXXX 1669965830652, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965830752 XXXX 1669965830752, Thread 1613: XXXX 1669965830752, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965830753 XXXX 1669965830753, Thread 1613: XXXX 1669965830753, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965830853 XXXX 1669965830853, Thread 1613: XXXX 1669965830853, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965830854 XXXX 1669965830854, Thread 1613: XXXX 1669965830854, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965830954 XXXX 1669965830954, Thread 1613: XXXX 1669965830954, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965830955 XXXX 1669965830955, Thread 1613: XXXX 1669965830955, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965831055 XXXX 1669965831055, Thread 1613: XXXX 1669965831055, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965831056 XXXX 1669965831056, Thread 1613: XXXX 1669965831056, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965831155 XXXX 1669965831155, Thread 1613: XXXX 1669965831155, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965831156 XXXX 1669965831156, Thread 1613: XXXX 1669965831156, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965831256 XXXX 1669965831256, Thread 1613: XXXX 1669965831256, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965831257 XXXX 1669965831257, Thread 1613: XXXX 1669965831257, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965831356 XXXX 1669965831356, Thread 1613: XXXX 1669965831356, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965831357 XXXX 1669965831357, Thread 1613: XXXX 1669965831357, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965831456 XXXX 1669965831456, Thread 1613: XXXX 1669965831456, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965831457 XXXX 1669965831457, Thread 1613: XXXX 1669965831457, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965831557 XXXX 1669965831557, Thread 1613: XXXX 1669965831557, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965831558 XXXX 1669965831558, Thread 1613: XXXX 1669965831558, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965831657 XXXX 1669965831657, Thread 1613: XXXX 1669965831657, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965831658 XXXX 1669965831658, Thread 1613: XXXX 1669965831658, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965831758 XXXX 1669965831758, Thread 1613: XXXX 1669965831758, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965831759 XXXX 1669965831759, Thread 1613: XXXX 1669965831759, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965831858 XXXX 1669965831858, Thread 1613: XXXX 1669965831858, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965831859 XXXX 1669965831859, Thread 1613: XXXX 1669965831859, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965831958 XXXX 1669965831958, Thread 1613: XXXX 1669965831958, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965831959 XXXX 1669965831959, Thread 1613: XXXX 1669965831959, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965832058 XXXX 1669965832058, Thread 1613: XXXX 1669965832058, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965832059 XXXX 1669965832059, Thread 1613: XXXX 1669965832059, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965832158 XXXX 1669965832158, Thread 1613: XXXX 1669965832158, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965832159 XXXX 1669965832159, Thread 1613: XXXX 1669965832159, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965832258 XXXX 1669965832258, Thread 1613: XXXX 1669965832258, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965832259 XXXX 1669965832259, Thread 1613: XXXX 1669965832259, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965832359 XXXX 1669965832359, Thread 1613: XXXX 1669965832359, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965832360 XXXX 1669965832360, Thread 1613: XXXX 1669965832360, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965832459 XXXX 1669965832459, Thread 1613: XXXX 1669965832459, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965832460 XXXX 1669965832460, Thread 1613: XXXX 1669965832460, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965832559 XXXX 1669965832559, Thread 1613: XXXX 1669965832559, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965832560 XXXX 1669965832560, Thread 1613: XXXX 1669965832560, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965832660 XXXX 1669965832660, Thread 1613: XXXX 1669965832660, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965832661 XXXX 1669965832661, Thread 1613: XXXX 1669965832661, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965832761 XXXX 1669965832761, Thread 1613: XXXX 1669965832761, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965832762 XXXX 1669965832762, Thread 1613: XXXX 1669965832762, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965832861 XXXX 1669965832861, Thread 1613: XXXX 1669965832861, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965832862 XXXX 1669965832862, Thread 1613: XXXX 1669965832862, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965832961 XXXX 1669965832961, Thread 1613: XXXX 1669965832961, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965832962 XXXX 1669965832962, Thread 1613: XXXX 1669965832962, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965833061 XXXX 1669965833061, Thread 1613: XXXX 1669965833061, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965833062 XXXX 1669965833062, Thread 1613: XXXX 1669965833062, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965833162 XXXX 1669965833162, Thread 1613: XXXX 1669965833162, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965833163 XXXX 1669965833163, Thread 1613: XXXX 1669965833163, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965833263 XXXX 1669965833263, Thread 1613: XXXX 1669965833263, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965833263 XXXX 1669965833263, Thread 1613: XXXX 1669965833263, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965833363 XXXX 1669965833363, Thread 1613: XXXX 1669965833363, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965833364 XXXX 1669965833364, Thread 1613: XXXX 1669965833364, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965833464 XXXX 1669965833464, Thread 1613: XXXX 1669965833464, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965833465 XXXX 1669965833465, Thread 1613: XXXX 1669965833465, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965833565 XXXX 1669965833565, Thread 1613: XXXX 1669965833565, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965833566 XXXX 1669965833566, Thread 1613: XXXX 1669965833566, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965833666 XXXX 1669965833666, Thread 1613: XXXX 1669965833666, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965833667 XXXX 1669965833667, Thread 1613: XXXX 1669965833667, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965833766 XXXX 1669965833766, Thread 1613: XXXX 1669965833766, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965833767 XXXX 1669965833767, Thread 1613: XXXX 1669965833767, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965833866 XXXX 1669965833866, Thread 1613: XXXX 1669965833866, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965833867 XXXX 1669965833867, Thread 1613: XXXX 1669965833867, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965833966 XXXX 1669965833966, Thread 1613: XXXX 1669965833966, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965833967 XXXX 1669965833967, Thread 1613: XXXX 1669965833967, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965834066 XXXX 1669965834066, Thread 1613: XXXX 1669965834066, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965834067 XXXX 1669965834067, Thread 1613: XXXX 1669965834067, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965834167 XXXX 1669965834167, Thread 1613: XXXX 1669965834167, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965834168 XXXX 1669965834168, Thread 1613: XXXX 1669965834168, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965834267 XXXX 1669965834267, Thread 1613: XXXX 1669965834267, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965834268 XXXX 1669965834268, Thread 1613: XXXX 1669965834268, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965834367 XXXX 1669965834367, Thread 1613: XXXX 1669965834367, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965834368 XXXX 1669965834368, Thread 1613: XXXX 1669965834368, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965834467 XXXX 1669965834467, Thread 1613: XXXX 1669965834467, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965834468 XXXX 1669965834468, Thread 1613: XXXX 1669965834468, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965834567 XXXX 1669965834567, Thread 1613: XXXX 1669965834567, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965834568 XXXX 1669965834568, Thread 1613: XXXX 1669965834568, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965834667 XXXX 1669965834667, Thread 1613: XXXX 1669965834667, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965834668 XXXX 1669965834668, Thread 1613: XXXX 1669965834668, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965834767 XXXX 1669965834767, Thread 1613: XXXX 1669965834767, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965834768 XXXX 1669965834768, Thread 1613: XXXX 1669965834768, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965834867 XXXX 1669965834867, Thread 1613: XXXX 1669965834867, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965834868 XXXX 1669965834868, Thread 1613: XXXX 1669965834868, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965834967 XXXX 1669965834967, Thread 1613: XXXX 1669965834967, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965834968 XXXX 1669965834968, Thread 1613: XXXX 1669965834968, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965835067 XXXX 1669965835067, Thread 1613: XXXX 1669965835067, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965835068 XXXX 1669965835068, Thread 1613: XXXX 1669965835068, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965835168 XXXX 1669965835168, Thread 1613: XXXX 1669965835168, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965835169 XXXX 1669965835169, Thread 1613: XXXX 1669965835169, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965835268 XXXX 1669965835268, Thread 1613: XXXX 1669965835268, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965835269 XXXX 1669965835269, Thread 1613: XXXX 1669965835269, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965835368 XXXX 1669965835368, Thread 1613: XXXX 1669965835368, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965835369 XXXX 1669965835369, Thread 1613: XXXX 1669965835369, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965835468 XXXX 1669965835468, Thread 1613: XXXX 1669965835468, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965835469 XXXX 1669965835469, Thread 1613: XXXX 1669965835469, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965835568 XXXX 1669965835568, Thread 1613: XXXX 1669965835568, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965835569 XXXX 1669965835569, Thread 1613: XXXX 1669965835569, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965835668 XXXX 1669965835668, Thread 1613: XXXX 1669965835668, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965835669 XXXX 1669965835669, Thread 1613: XXXX 1669965835669, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965835768 XXXX 1669965835768, Thread 1613: XXXX 1669965835768, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965835769 XXXX 1669965835769, Thread 1613: XXXX 1669965835769, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965835868 XXXX 1669965835868, Thread 1613: XXXX 1669965835868, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965835869 XXXX 1669965835869, Thread 1613: XXXX 1669965835869, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965835968 XXXX 1669965835968, Thread 1613: XXXX 1669965835968, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965835969 XXXX 1669965835969, Thread 1613: XXXX 1669965835969, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965836069 XXXX 1669965836069, Thread 1613: XXXX 1669965836069, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965836070 XXXX 1669965836070, Thread 1613: XXXX 1669965836070, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965836169 XXXX 1669965836169, Thread 1613: XXXX 1669965836169, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965836170 XXXX 1669965836170, Thread 1613: XXXX 1669965836170, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965836270 XXXX 1669965836270, Thread 1613: XXXX 1669965836270, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965836271 XXXX 1669965836271, Thread 1613: XXXX 1669965836271, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965836370 XXXX 1669965836370, Thread 1613: XXXX 1669965836370, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965836371 XXXX 1669965836371, Thread 1613: XXXX 1669965836371, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965836470 XXXX 1669965836470, Thread 1613: XXXX 1669965836470, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965836471 XXXX 1669965836471, Thread 1613: XXXX 1669965836471, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965836570 XXXX 1669965836570, Thread 1613: XXXX 1669965836570, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965836571 XXXX 1669965836571, Thread 1613: XXXX 1669965836571, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965836670 XXXX 1669965836670, Thread 1613: XXXX 1669965836670, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965836671 XXXX 1669965836671, Thread 1613: XXXX 1669965836671, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965836770 XXXX 1669965836770, Thread 1613: XXXX 1669965836770, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965836771 XXXX 1669965836771, Thread 1613: XXXX 1669965836771, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965836870 XXXX 1669965836870, Thread 1613: XXXX 1669965836870, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965836871 XXXX 1669965836871, Thread 1613: XXXX 1669965836871, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965836970 XXXX 1669965836970, Thread 1613: XXXX 1669965836970, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965836971 XXXX 1669965836971, Thread 1613: XXXX 1669965836971, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965837071 XXXX 1669965837071, Thread 1613: XXXX 1669965837071, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965837071 XXXX 1669965837071, Thread 1613: XXXX 1669965837071, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965837171 XXXX 1669965837171, Thread 1613: XXXX 1669965837171, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965837171 XXXX 1669965837171, Thread 1613: XXXX 1669965837171, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965837272 XXXX 1669965837272, Thread 1613: XXXX 1669965837272, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965837273 XXXX 1669965837273, Thread 1613: XXXX 1669965837273, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965837372 XXXX 1669965837372, Thread 1613: XXXX 1669965837372, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965837373 XXXX 1669965837373, Thread 1613: XXXX 1669965837373, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965837473 XXXX 1669965837473, Thread 1613: XXXX 1669965837473, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965837474 XXXX 1669965837474, Thread 1613: XXXX 1669965837474, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965837573 XXXX 1669965837573, Thread 1613: XXXX 1669965837573, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965837574 XXXX 1669965837574, Thread 1613: XXXX 1669965837574, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965837673 XXXX 1669965837673, Thread 1613: XXXX 1669965837673, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965837674 XXXX 1669965837674, Thread 1613: XXXX 1669965837674, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965837773 XXXX 1669965837773, Thread 1613: XXXX 1669965837773, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965837774 XXXX 1669965837774, Thread 1613: XXXX 1669965837774, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965837873 XXXX 1669965837873, Thread 1613: XXXX 1669965837873, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965837874 XXXX 1669965837874, Thread 1613: XXXX 1669965837874, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965837973 XXXX 1669965837973, Thread 1613: XXXX 1669965837973, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965837974 XXXX 1669965837974, Thread 1613: XXXX 1669965837974, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965838073 XXXX 1669965838073, Thread 1613: XXXX 1669965838073, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965838074 XXXX 1669965838074, Thread 1613: XXXX 1669965838074, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965838173 XXXX 1669965838173, Thread 1613: XXXX 1669965838173, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965838174 XXXX 1669965838174, Thread 1613: XXXX 1669965838174, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965838274 XXXX 1669965838274, Thread 1613: XXXX 1669965838274, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965838275 XXXX 1669965838275, Thread 1613: XXXX 1669965838275, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965838374 XXXX 1669965838374, Thread 1613: XXXX 1669965838374, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965838375 XXXX 1669965838375, Thread 1613: XXXX 1669965838375, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965838475 XXXX 1669965838475, Thread 1613: XXXX 1669965838475, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965838475 XXXX 1669965838475, Thread 1613: XXXX 1669965838475, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965838575 XXXX 1669965838575, Thread 1613: XXXX 1669965838575, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965838576 XXXX 1669965838576, Thread 1613: XXXX 1669965838576, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965838675 XXXX 1669965838675, Thread 1613: XXXX 1669965838675, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965838676 XXXX 1669965838676, Thread 1613: XXXX 1669965838676, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965838776 XXXX 1669965838776, Thread 1613: XXXX 1669965838776, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965838776 XXXX 1669965838776, Thread 1613: XXXX 1669965838776, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965838876 XXXX 1669965838876, Thread 1613: XXXX 1669965838876, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965838877 XXXX 1669965838877, Thread 1613: XXXX 1669965838877, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965838977 XXXX 1669965838977, Thread 1613: XXXX 1669965838977, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965838978 XXXX 1669965838978, Thread 1613: XXXX 1669965838978, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965839077 XXXX 1669965839077, Thread 1613: XXXX 1669965839077, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965839078 XXXX 1669965839078, Thread 1613: XXXX 1669965839078, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965839177 XXXX 1669965839177, Thread 1613: XXXX 1669965839177, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965839178 XXXX 1669965839178, Thread 1613: XXXX 1669965839178, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965839277 XXXX 1669965839277, Thread 1613: XXXX 1669965839277, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965839278 XXXX 1669965839278, Thread 1613: XXXX 1669965839278, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965839377 XXXX 1669965839377, Thread 1613: XXXX 1669965839377, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965839378 XXXX 1669965839378, Thread 1613: XXXX 1669965839378, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965839478 XXXX 1669965839478, Thread 1613: XXXX 1669965839478, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965839479 XXXX 1669965839479, Thread 1613: XXXX 1669965839479, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965839578 XXXX 1669965839578, Thread 1613: XXXX 1669965839578, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965839579 XXXX 1669965839579, Thread 1613: XXXX 1669965839579, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965839678 XXXX 1669965839678, Thread 1613: XXXX 1669965839678, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965839679 XXXX 1669965839679, Thread 1613: XXXX 1669965839679, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965839778 XXXX 1669965839778, Thread 1613: XXXX 1669965839778, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965839779 XXXX 1669965839779, Thread 1613: XXXX 1669965839779, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965839878 XXXX 1669965839878, Thread 1613: XXXX 1669965839878, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965839880 XXXX 1669965839880, Thread 1613: XXXX 1669965839880, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965839978 XXXX 1669965839978, Thread 1613: XXXX 1669965839978, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965839979 XXXX 1669965839979, Thread 1613: XXXX 1669965839979, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965840078 XXXX 1669965840078, Thread 1613: XXXX 1669965840078, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965840079 XXXX 1669965840079, Thread 1613: XXXX 1669965840079, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965840178 XXXX 1669965840178, Thread 1613: XXXX 1669965840178, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965840179 XXXX 1669965840179, Thread 1613: XXXX 1669965840179, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965840278 XXXX 1669965840278, Thread 1613: XXXX 1669965840278, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965840279 XXXX 1669965840279, Thread 1613: XXXX 1669965840279, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965840378 XXXX 1669965840378, Thread 1613: XXXX 1669965840378, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965840379 XXXX 1669965840379, Thread 1613: XXXX 1669965840379, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965840478 XXXX 1669965840478, Thread 1613: XXXX 1669965840478, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965840479 XXXX 1669965840479, Thread 1613: XXXX 1669965840479, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965840578 XXXX 1669965840578, Thread 1613: XXXX 1669965840578, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965840579 XXXX 1669965840579, Thread 1613: XXXX 1669965840579, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965840679 XXXX 1669965840679, Thread 1613: XXXX 1669965840679, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965840681 XXXX 1669965840681, Thread 1613: XXXX 1669965840681, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965840779 XXXX 1669965840779, Thread 1613: XXXX 1669965840779, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965840780 XXXX 1669965840780, Thread 1613: XXXX 1669965840780, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965840880 XXXX 1669965840880, Thread 1613: XXXX 1669965840880, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965840882 XXXX 1669965840882, Thread 1613: XXXX 1669965840882, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965840980 XXXX 1669965840980, Thread 1613: XXXX 1669965840980, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965840981 XXXX 1669965840981, Thread 1613: XXXX 1669965840981, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965841080 XXXX 1669965841080, Thread 1613: XXXX 1669965841080, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965841081 XXXX 1669965841081, Thread 1613: XXXX 1669965841081, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965841180 XXXX 1669965841180, Thread 1613: XXXX 1669965841180, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965841181 XXXX 1669965841181, Thread 1613: XXXX 1669965841181, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965841280 XXXX 1669965841280, Thread 1613: XXXX 1669965841280, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965841282 XXXX 1669965841282, Thread 1613: XXXX 1669965841282, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965841380 XXXX 1669965841380, Thread 1613: XXXX 1669965841380, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965841382 XXXX 1669965841382, Thread 1613: XXXX 1669965841382, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965841480 XXXX 1669965841480, Thread 1613: XXXX 1669965841480, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965841482 XXXX 1669965841482, Thread 1613: XXXX 1669965841482, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965841581 XXXX 1669965841581, Thread 1613: XXXX 1669965841581, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965841582 XXXX 1669965841582, Thread 1613: XXXX 1669965841582, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965841681 XXXX 1669965841681, Thread 1613: XXXX 1669965841681, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965841682 XXXX 1669965841682, Thread 1613: XXXX 1669965841682, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965841782 XXXX 1669965841782, Thread 1613: XXXX 1669965841782, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965841783 XXXX 1669965841783, Thread 1613: XXXX 1669965841783, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965841882 XXXX 1669965841882, Thread 1613: XXXX 1669965841882, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965841883 XXXX 1669965841883, Thread 1613: XXXX 1669965841883, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965841982 XXXX 1669965841982, Thread 1613: XXXX 1669965841982, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965841983 XXXX 1669965841983, Thread 1613: XXXX 1669965841983, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965842082 XXXX 1669965842082, Thread 1613: XXXX 1669965842082, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965842083 XXXX 1669965842083, Thread 1613: XXXX 1669965842083, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965842182 XXXX 1669965842182, Thread 1613: XXXX 1669965842182, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965842183 XXXX 1669965842183, Thread 1613: XXXX 1669965842183, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965842282 XXXX 1669965842282, Thread 1613: XXXX 1669965842282, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965842283 XXXX 1669965842283, Thread 1613: XXXX 1669965842283, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965842382 XXXX 1669965842382, Thread 1613: XXXX 1669965842382, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965842383 XXXX 1669965842383, Thread 1613: XXXX 1669965842383, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965842483 XXXX 1669965842483, Thread 1613: XXXX 1669965842483, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965842483 XXXX 1669965842483, Thread 1613: XXXX 1669965842483, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965842583 XXXX 1669965842583, Thread 1613: XXXX 1669965842583, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965842585 XXXX 1669965842585, Thread 1613: XXXX 1669965842585, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965842683 XXXX 1669965842683, Thread 1613: XXXX 1669965842683, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965842684 XXXX 1669965842684, Thread 1613: XXXX 1669965842684, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965842783 XXXX 1669965842783, Thread 1613: XXXX 1669965842783, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965842784 XXXX 1669965842784, Thread 1613: XXXX 1669965842784, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965842883 XXXX 1669965842883, Thread 1613: XXXX 1669965842883, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965842883 XXXX 1669965842883, Thread 1613: XXXX 1669965842883, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965842984 XXXX 1669965842984, Thread 1613: XXXX 1669965842984, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965842986 XXXX 1669965842986, Thread 1613: XXXX 1669965842986, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965843084 XXXX 1669965843084, Thread 1613: XXXX 1669965843084, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965843085 XXXX 1669965843085, Thread 1613: XXXX 1669965843085, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965843185 XXXX 1669965843185, Thread 1613: XXXX 1669965843185, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965843186 XXXX 1669965843186, Thread 1613: XXXX 1669965843186, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965843285 XXXX 1669965843285, Thread 1613: XXXX 1669965843285, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965843286 XXXX 1669965843286, Thread 1613: XXXX 1669965843286, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965843385 XXXX 1669965843385, Thread 1613: XXXX 1669965843385, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965843387 XXXX 1669965843387, Thread 1613: XXXX 1669965843387, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965843486 XXXX 1669965843486, Thread 1613: XXXX 1669965843486, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965843487 XXXX 1669965843487, Thread 1613: XXXX 1669965843487, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965843586 XXXX 1669965843586, Thread 1613: XXXX 1669965843586, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965843587 XXXX 1669965843587, Thread 1613: XXXX 1669965843587, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965843686 XXXX 1669965843686, Thread 1613: XXXX 1669965843686, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965843687 XXXX 1669965843687, Thread 1613: XXXX 1669965843687, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965843787 XXXX 1669965843787, Thread 1613: XXXX 1669965843787, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965843788 XXXX 1669965843788, Thread 1613: XXXX 1669965843788, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965843887 XXXX 1669965843887, Thread 1613: XXXX 1669965843887, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965843888 XXXX 1669965843888, Thread 1613: XXXX 1669965843888, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965843987 XXXX 1669965843987, Thread 1613: XXXX 1669965843987, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965843987 XXXX 1669965843987, Thread 1613: XXXX 1669965843987, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965844087 XXXX 1669965844087, Thread 1613: XXXX 1669965844087, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965844089 XXXX 1669965844089, Thread 1613: XXXX 1669965844089, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965844187 XXXX 1669965844187, Thread 1613: XXXX 1669965844187, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965844188 XXXX 1669965844188, Thread 1613: XXXX 1669965844188, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965844287 XXXX 1669965844287, Thread 1613: XXXX 1669965844287, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965844288 XXXX 1669965844288, Thread 1613: XXXX 1669965844288, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965844388 XXXX 1669965844388, Thread 1613: XXXX 1669965844388, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965844389 XXXX 1669965844389, Thread 1613: XXXX 1669965844389, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965844488 XXXX 1669965844488, Thread 1613: XXXX 1669965844488, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965844489 XXXX 1669965844489, Thread 1613: XXXX 1669965844489, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965844588 XXXX 1669965844588, Thread 1613: XXXX 1669965844588, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965844589 XXXX 1669965844589, Thread 1613: XXXX 1669965844589, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965844688 XXXX 1669965844688, Thread 1613: XXXX 1669965844688, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965844689 XXXX 1669965844689, Thread 1613: XXXX 1669965844689, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965844789 XXXX 1669965844789, Thread 1613: XXXX 1669965844789, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965844790 XXXX 1669965844790, Thread 1613: XXXX 1669965844790, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965844889 XXXX 1669965844889, Thread 1613: XXXX 1669965844889, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965844890 XXXX 1669965844890, Thread 1613: XXXX 1669965844890, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965844989 XXXX 1669965844989, Thread 1613: XXXX 1669965844989, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965844990 XXXX 1669965844990, Thread 1613: XXXX 1669965844990, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965845090 XXXX 1669965845090, Thread 1613: XXXX 1669965845090, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965845091 XXXX 1669965845091, Thread 1613: XXXX 1669965845091, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965845190 XXXX 1669965845190, Thread 1613: XXXX 1669965845190, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965845192 XXXX 1669965845192, Thread 1613: XXXX 1669965845192, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965845290 XXXX 1669965845290, Thread 1613: XXXX 1669965845290, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965845291 XXXX 1669965845291, Thread 1613: XXXX 1669965845291, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965845390 XXXX 1669965845390, Thread 1613: XXXX 1669965845390, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965845391 XXXX 1669965845391, Thread 1613: XXXX 1669965845391, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965845490 XXXX 1669965845490, Thread 1613: XXXX 1669965845490, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965845491 XXXX 1669965845491, Thread 1613: XXXX 1669965845491, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965845591 XXXX 1669965845591, Thread 1613: XXXX 1669965845591, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965845592 XXXX 1669965845592, Thread 1613: XXXX 1669965845592, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965845691 XXXX 1669965845691, Thread 1613: XXXX 1669965845691, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965845692 XXXX 1669965845692, Thread 1613: XXXX 1669965845692, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965845792 XXXX 1669965845792, Thread 1613: XXXX 1669965845792, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965845793 XXXX 1669965845793, Thread 1613: XXXX 1669965845793, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965845893 XXXX 1669965845893, Thread 1613: XXXX 1669965845893, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965845894 XXXX 1669965845894, Thread 1613: XXXX 1669965845894, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965845994 XXXX 1669965845994, Thread 1613: XXXX 1669965845994, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965845995 XXXX 1669965845995, Thread 1613: XXXX 1669965845995, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965846094 XXXX 1669965846094, Thread 1613: XXXX 1669965846094, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965846095 XXXX 1669965846095, Thread 1613: XXXX 1669965846095, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965846194 XXXX 1669965846194, Thread 1613: XXXX 1669965846194, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965846195 XXXX 1669965846195, Thread 1613: XXXX 1669965846195, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965846294 XXXX 1669965846294, Thread 1613: XXXX 1669965846294, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965846296 XXXX 1669965846296, Thread 1613: XXXX 1669965846296, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965846394 XXXX 1669965846394, Thread 1613: XXXX 1669965846394, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965846395 XXXX 1669965846395, Thread 1613: XXXX 1669965846395, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965846494 XXXX 1669965846494, Thread 1613: XXXX 1669965846494, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965846495 XXXX 1669965846495, Thread 1613: XXXX 1669965846495, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965846594 XXXX 1669965846594, Thread 1613: XXXX 1669965846594, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965846595 XXXX 1669965846595, Thread 1613: XXXX 1669965846595, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965846695 XXXX 1669965846695, Thread 1613: XXXX 1669965846695, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965846696 XXXX 1669965846696, Thread 1613: XXXX 1669965846696, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965846796 XXXX 1669965846796, Thread 1613: XXXX 1669965846796, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965846797 XXXX 1669965846797, Thread 1613: XXXX 1669965846797, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965846896 XXXX 1669965846896, Thread 1613: XXXX 1669965846896, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965846897 XXXX 1669965846897, Thread 1613: XXXX 1669965846897, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965846996 XXXX 1669965846996, Thread 1613: XXXX 1669965846996, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965846997 XXXX 1669965846997, Thread 1613: XXXX 1669965846997, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965847096 XXXX 1669965847096, Thread 1613: XXXX 1669965847096, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965847097 XXXX 1669965847097, Thread 1613: XXXX 1669965847097, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965847196 XXXX 1669965847196, Thread 1613: XXXX 1669965847196, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965847197 XXXX 1669965847197, Thread 1613: XXXX 1669965847197, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965847296 XXXX 1669965847296, Thread 1613: XXXX 1669965847296, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965847297 XXXX 1669965847297, Thread 1613: XXXX 1669965847297, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965847396 XXXX 1669965847396, Thread 1613: XXXX 1669965847396, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965847397 XXXX 1669965847397, Thread 1613: XXXX 1669965847397, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965847496 XXXX 1669965847496, Thread 1613: XXXX 1669965847496, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965847497 XXXX 1669965847497, Thread 1613: XXXX 1669965847497, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965847596 XXXX 1669965847596, Thread 1613: XXXX 1669965847596, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965847597 XXXX 1669965847597, Thread 1613: XXXX 1669965847597, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965847697 XXXX 1669965847697, Thread 1613: XXXX 1669965847697, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965847698 XXXX 1669965847698, Thread 1613: XXXX 1669965847698, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965847797 XXXX 1669965847797, Thread 1613: XXXX 1669965847797, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965847798 XXXX 1669965847798, Thread 1613: XXXX 1669965847798, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965847897 XXXX 1669965847897, Thread 1613: XXXX 1669965847897, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965847898 XXXX 1669965847898, Thread 1613: XXXX 1669965847898, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965847997 XXXX 1669965847997, Thread 1613: XXXX 1669965847997, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965847999 XXXX 1669965847999, Thread 1613: XXXX 1669965847999, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965848097 XXXX 1669965848097, Thread 1613: XXXX 1669965848097, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965848098 XXXX 1669965848098, Thread 1613: XXXX 1669965848098, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965848197 XXXX 1669965848197, Thread 1613: XXXX 1669965848197, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965848198 XXXX 1669965848198, Thread 1613: XXXX 1669965848198, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965848298 XXXX 1669965848298, Thread 1613: XXXX 1669965848298, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965848299 XXXX 1669965848299, Thread 1613: XXXX 1669965848299, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965848398 XXXX 1669965848398, Thread 1613: XXXX 1669965848398, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965848399 XXXX 1669965848399, Thread 1613: XXXX 1669965848399, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965848498 XXXX 1669965848498, Thread 1613: XXXX 1669965848498, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965848499 XXXX 1669965848499, Thread 1613: XXXX 1669965848499, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965848598 XXXX 1669965848598, Thread 1613: XXXX 1669965848598, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965848599 XXXX 1669965848599, Thread 1613: XXXX 1669965848599, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965848699 XXXX 1669965848699, Thread 1613: XXXX 1669965848699, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965848700 XXXX 1669965848700, Thread 1613: XXXX 1669965848700, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965848800 XXXX 1669965848800, Thread 1613: XXXX 1669965848800, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965848801 XXXX 1669965848801, Thread 1613: XXXX 1669965848801, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965848900 XXXX 1669965848900, Thread 1613: XXXX 1669965848900, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965848900 XXXX 1669965848900, Thread 1613: XXXX 1669965848900, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965849000 XXXX 1669965849000, Thread 1613: XXXX 1669965849000, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965849001 XXXX 1669965849001, Thread 1613: XXXX 1669965849001, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965849100 XXXX 1669965849100, Thread 1613: XXXX 1669965849100, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965849101 XXXX 1669965849101, Thread 1613: XXXX 1669965849101, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965849201 XXXX 1669965849201, Thread 1613: XXXX 1669965849201, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965849202 XXXX 1669965849202, Thread 1613: XXXX 1669965849202, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965849301 XXXX 1669965849301, Thread 1613: XXXX 1669965849301, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965849302 XXXX 1669965849302, Thread 1613: XXXX 1669965849302, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965849401 XXXX 1669965849401, Thread 1613: XXXX 1669965849401, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965849402 XXXX 1669965849402, Thread 1613: XXXX 1669965849402, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965849502 XXXX 1669965849502, Thread 1613: XXXX 1669965849502, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965849503 XXXX 1669965849503, Thread 1613: XXXX 1669965849503, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965849602 XXXX 1669965849602, Thread 1613: XXXX 1669965849602, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965849603 XXXX 1669965849603, Thread 1613: XXXX 1669965849603, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965849702 XXXX 1669965849702, Thread 1613: XXXX 1669965849702, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965849703 XXXX 1669965849703, Thread 1613: XXXX 1669965849703, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965849803 XXXX 1669965849803, Thread 1613: XXXX 1669965849803, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965849804 XXXX 1669965849804, Thread 1613: XXXX 1669965849804, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965849904 XXXX 1669965849904, Thread 1613: XXXX 1669965849904, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965849905 XXXX 1669965849905, Thread 1613: XXXX 1669965849905, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965850004 XXXX 1669965850004, Thread 1613: XXXX 1669965850004, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965850005 XXXX 1669965850005, Thread 1613: XXXX 1669965850005, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965850104 XXXX 1669965850104, Thread 1613: XXXX 1669965850104, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965850105 XXXX 1669965850105, Thread 1613: XXXX 1669965850105, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965850204 XXXX 1669965850204, Thread 1613: XXXX 1669965850204, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965850205 XXXX 1669965850205, Thread 1613: XXXX 1669965850205, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965850305 XXXX 1669965850305, Thread 1613: XXXX 1669965850305, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965850306 XXXX 1669965850306, Thread 1613: XXXX 1669965850306, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965850406 XXXX 1669965850406, Thread 1613: XXXX 1669965850406, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965850407 XXXX 1669965850407, Thread 1613: XXXX 1669965850407, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965850506 XXXX 1669965850506, Thread 1613: XXXX 1669965850506, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965850507 XXXX 1669965850507, Thread 1613: XXXX 1669965850507, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965850606 XXXX 1669965850606, Thread 1613: XXXX 1669965850606, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965850607 XXXX 1669965850607, Thread 1613: XXXX 1669965850607, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965850707 XXXX 1669965850707, Thread 1613: XXXX 1669965850707, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965850708 XXXX 1669965850708, Thread 1613: XXXX 1669965850708, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965850808 XXXX 1669965850808, Thread 1613: XXXX 1669965850808, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965850809 XXXX 1669965850809, Thread 1613: XXXX 1669965850809, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965850908 XXXX 1669965850908, Thread 1613: XXXX 1669965850908, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965850909 XXXX 1669965850909, Thread 1613: XXXX 1669965850909, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965851008 XXXX 1669965851008, Thread 1613: XXXX 1669965851008, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965851009 XXXX 1669965851009, Thread 1613: XXXX 1669965851009, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965851108 XXXX 1669965851108, Thread 1613: XXXX 1669965851108, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965851109 XXXX 1669965851109, Thread 1613: XXXX 1669965851109, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965851208 XXXX 1669965851208, Thread 1613: XXXX 1669965851208, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965851209 XXXX 1669965851209, Thread 1613: XXXX 1669965851209, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965851308 XXXX 1669965851308, Thread 1613: XXXX 1669965851308, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965851309 XXXX 1669965851309, Thread 1613: XXXX 1669965851309, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965851408 XXXX 1669965851408, Thread 1613: XXXX 1669965851408, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965851409 XXXX 1669965851409, Thread 1613: XXXX 1669965851409, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965851508 XXXX 1669965851508, Thread 1613: XXXX 1669965851508, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965851509 XXXX 1669965851509, Thread 1613: XXXX 1669965851509, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965851608 XXXX 1669965851608, Thread 1613: XXXX 1669965851608, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965851609 XXXX 1669965851609, Thread 1613: XXXX 1669965851609, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965851708 XXXX 1669965851708, Thread 1613: XXXX 1669965851708, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965851709 XXXX 1669965851709, Thread 1613: XXXX 1669965851709, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965851808 XXXX 1669965851808, Thread 1613: XXXX 1669965851808, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965851809 XXXX 1669965851809, Thread 1613: XXXX 1669965851809, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965851908 XXXX 1669965851908, Thread 1613: XXXX 1669965851908, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965851908 XXXX 1669965851908, Thread 1613: XXXX 1669965851908, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965852008 XXXX 1669965852008, Thread 1613: XXXX 1669965852008, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965852008 XXXX 1669965852008, Thread 1613: XXXX 1669965852008, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965852108 XXXX 1669965852108, Thread 1613: XXXX 1669965852108, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965852109 XXXX 1669965852109, Thread 1613: XXXX 1669965852109, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965852209 XXXX 1669965852209, Thread 1613: XXXX 1669965852209, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965852210 XXXX 1669965852210, Thread 1613: XXXX 1669965852210, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965852309 XXXX 1669965852309, Thread 1613: XXXX 1669965852309, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965852310 XXXX 1669965852310, Thread 1613: XXXX 1669965852310, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965852409 XXXX 1669965852409, Thread 1613: XXXX 1669965852409, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965852410 XXXX 1669965852410, Thread 1613: XXXX 1669965852410, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965852509 XXXX 1669965852509, Thread 1613: XXXX 1669965852509, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965852510 XXXX 1669965852510, Thread 1613: XXXX 1669965852510, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965852609 XXXX 1669965852609, Thread 1613: XXXX 1669965852609, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965852610 XXXX 1669965852610, Thread 1613: XXXX 1669965852610, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965852709 XXXX 1669965852709, Thread 1613: XXXX 1669965852709, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965852710 XXXX 1669965852710, Thread 1613: XXXX 1669965852710, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965852809 XXXX 1669965852809, Thread 1613: XXXX 1669965852809, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965852810 XXXX 1669965852810, Thread 1613: XXXX 1669965852810, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965852909 XXXX 1669965852909, Thread 1613: XXXX 1669965852909, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965852910 XXXX 1669965852910, Thread 1613: XXXX 1669965852910, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965853009 XXXX 1669965853009, Thread 1613: XXXX 1669965853009, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965853010 XXXX 1669965853010, Thread 1613: XXXX 1669965853010, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965853109 XXXX 1669965853109, Thread 1613: XXXX 1669965853109, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965853110 XXXX 1669965853110, Thread 1613: XXXX 1669965853110, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965853209 XXXX 1669965853209, Thread 1613: XXXX 1669965853209, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965853210 XXXX 1669965853210, Thread 1613: XXXX 1669965853210, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965853309 XXXX 1669965853309, Thread 1613: XXXX 1669965853309, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965853310 XXXX 1669965853310, Thread 1613: XXXX 1669965853310, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965853409 XXXX 1669965853409, Thread 1613: XXXX 1669965853409, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965853410 XXXX 1669965853410, Thread 1613: XXXX 1669965853410, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965853509 XXXX 1669965853509, Thread 1613: XXXX 1669965853509, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965853510 XXXX 1669965853510, Thread 1613: XXXX 1669965853510, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965853609 XXXX 1669965853609, Thread 1613: XXXX 1669965853609, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965853610 XXXX 1669965853610, Thread 1613: XXXX 1669965853610, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965853709 XXXX 1669965853709, Thread 1613: XXXX 1669965853709, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965853710 XXXX 1669965853710, Thread 1613: XXXX 1669965853710, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965853809 XXXX 1669965853809, Thread 1613: XXXX 1669965853809, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965853810 XXXX 1669965853810, Thread 1613: XXXX 1669965853810, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965853909 XXXX 1669965853909, Thread 1613: XXXX 1669965853909, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965853910 XXXX 1669965853910, Thread 1613: XXXX 1669965853910, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965854010 XXXX 1669965854010, Thread 1613: XXXX 1669965854010, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965854011 XXXX 1669965854011, Thread 1613: XXXX 1669965854011, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965854110 XXXX 1669965854110, Thread 1613: XXXX 1669965854110, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965854111 XXXX 1669965854111, Thread 1613: XXXX 1669965854111, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965854210 XXXX 1669965854210, Thread 1613: XXXX 1669965854210, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965854211 XXXX 1669965854211, Thread 1613: XXXX 1669965854211, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965854310 XXXX 1669965854310, Thread 1613: XXXX 1669965854310, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965854311 XXXX 1669965854311, Thread 1613: XXXX 1669965854311, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965854410 XXXX 1669965854410, Thread 1613: XXXX 1669965854410, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965854411 XXXX 1669965854411, Thread 1613: XXXX 1669965854411, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965854510 XXXX 1669965854510, Thread 1613: XXXX 1669965854510, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965854511 XXXX 1669965854511, Thread 1613: XXXX 1669965854511, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965854610 XXXX 1669965854610, Thread 1613: XXXX 1669965854610, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965854611 XXXX 1669965854611, Thread 1613: XXXX 1669965854611, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965854710 XXXX 1669965854710, Thread 1613: XXXX 1669965854710, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965854711 XXXX 1669965854711, Thread 1613: XXXX 1669965854711, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965854810 XXXX 1669965854810, Thread 1613: XXXX 1669965854810, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965854811 XXXX 1669965854811, Thread 1613: XXXX 1669965854811, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965854910 XXXX 1669965854910, Thread 1613: XXXX 1669965854910, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965854911 XXXX 1669965854911, Thread 1613: XXXX 1669965854911, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965855010 XXXX 1669965855010, Thread 1613: XXXX 1669965855010, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965855011 XXXX 1669965855011, Thread 1613: XXXX 1669965855011, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965855110 XXXX 1669965855110, Thread 1613: XXXX 1669965855110, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965855111 XXXX 1669965855111, Thread 1613: XXXX 1669965855111, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965855210 XXXX 1669965855210, Thread 1613: XXXX 1669965855210, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965855211 XXXX 1669965855211, Thread 1613: XXXX 1669965855211, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965855311 XXXX 1669965855311, Thread 1613: XXXX 1669965855311, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965855312 XXXX 1669965855312, Thread 1613: XXXX 1669965855312, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965855412 XXXX 1669965855412, Thread 1613: XXXX 1669965855412, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965855413 XXXX 1669965855413, Thread 1613: XXXX 1669965855413, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965855513 XXXX 1669965855513, Thread 1613: XXXX 1669965855513, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965855514 XXXX 1669965855514, Thread 1613: XXXX 1669965855514, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965855613 XXXX 1669965855613, Thread 1613: XXXX 1669965855613, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965855614 XXXX 1669965855614, Thread 1613: XXXX 1669965855614, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965855713 XXXX 1669965855713, Thread 1613: XXXX 1669965855713, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965855714 XXXX 1669965855714, Thread 1613: XXXX 1669965855714, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965855813 XXXX 1669965855813, Thread 1613: XXXX 1669965855813, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965855814 XXXX 1669965855814, Thread 1613: XXXX 1669965855814, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965855913 XXXX 1669965855913, Thread 1613: XXXX 1669965855913, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965855914 XXXX 1669965855914, Thread 1613: XXXX 1669965855914, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965856013 XXXX 1669965856013, Thread 1613: XXXX 1669965856013, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965856014 XXXX 1669965856014, Thread 1613: XXXX 1669965856014, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965856113 XXXX 1669965856113, Thread 1613: XXXX 1669965856113, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965856114 XXXX 1669965856114, Thread 1613: XXXX 1669965856114, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965856213 XXXX 1669965856213, Thread 1613: XXXX 1669965856213, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965856214 XXXX 1669965856214, Thread 1613: XXXX 1669965856214, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965856313 XXXX 1669965856313, Thread 1613: XXXX 1669965856313, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965856314 XXXX 1669965856314, Thread 1613: XXXX 1669965856314, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965856413 XXXX 1669965856413, Thread 1613: XXXX 1669965856413, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965856414 XXXX 1669965856414, Thread 1613: XXXX 1669965856414, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965856513 XXXX 1669965856513, Thread 1613: XXXX 1669965856513, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965856514 XXXX 1669965856514, Thread 1613: XXXX 1669965856514, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965856613 XXXX 1669965856613, Thread 1613: XXXX 1669965856613, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965856614 XXXX 1669965856614, Thread 1613: XXXX 1669965856614, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965856713 XXXX 1669965856713, Thread 1613: XXXX 1669965856713, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965856714 XXXX 1669965856714, Thread 1613: XXXX 1669965856714, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965856813 XXXX 1669965856813, Thread 1613: XXXX 1669965856813, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965856814 XXXX 1669965856814, Thread 1613: XXXX 1669965856814, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965856913 XXXX 1669965856913, Thread 1613: XXXX 1669965856913, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965856914 XXXX 1669965856914, Thread 1613: XXXX 1669965856914, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965857013 XXXX 1669965857013, Thread 1613: XXXX 1669965857013, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965857014 XXXX 1669965857014, Thread 1613: XXXX 1669965857014, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965857114 XXXX 1669965857114, Thread 1613: XXXX 1669965857114, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965857115 XXXX 1669965857115, Thread 1613: XXXX 1669965857115, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965857215 XXXX 1669965857215, Thread 1613: XXXX 1669965857215, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965857216 XXXX 1669965857216, Thread 1613: XXXX 1669965857216, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965857315 XXXX 1669965857315, Thread 1613: XXXX 1669965857315, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965857316 XXXX 1669965857316, Thread 1613: XXXX 1669965857316, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965857415 XXXX 1669965857415, Thread 1613: XXXX 1669965857415, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965857416 XXXX 1669965857416, Thread 1613: XXXX 1669965857416, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965857516 XXXX 1669965857516, Thread 1613: XXXX 1669965857516, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965857517 XXXX 1669965857517, Thread 1613: XXXX 1669965857517, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965857617 XXXX 1669965857617, Thread 1613: XXXX 1669965857617, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965857618 XXXX 1669965857618, Thread 1613: XXXX 1669965857618, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965857717 XXXX 1669965857717, Thread 1613: XXXX 1669965857717, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965857718 XXXX 1669965857718, Thread 1613: XXXX 1669965857718, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965857817 XXXX 1669965857817, Thread 1613: XXXX 1669965857817, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965857818 XXXX 1669965857818, Thread 1613: XXXX 1669965857818, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965857917 XXXX 1669965857917, Thread 1613: XXXX 1669965857917, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965857918 XXXX 1669965857918, Thread 1613: XXXX 1669965857918, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965858018 XXXX 1669965858018, Thread 1613: XXXX 1669965858018, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965858019 XXXX 1669965858019, Thread 1613: XXXX 1669965858019, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965858118 XXXX 1669965858118, Thread 1613: XXXX 1669965858118, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965858119 XXXX 1669965858119, Thread 1613: XXXX 1669965858119, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965858219 XXXX 1669965858219, Thread 1613: XXXX 1669965858219, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965858220 XXXX 1669965858220, Thread 1613: XXXX 1669965858220, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965858320 XXXX 1669965858320, Thread 1613: XXXX 1669965858320, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965858321 XXXX 1669965858321, Thread 1613: XXXX 1669965858321, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965858420 XXXX 1669965858420, Thread 1613: XXXX 1669965858420, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965858421 XXXX 1669965858421, Thread 1613: XXXX 1669965858421, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965858520 XXXX 1669965858520, Thread 1613: XXXX 1669965858520, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965858521 XXXX 1669965858521, Thread 1613: XXXX 1669965858521, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965858620 XXXX 1669965858620, Thread 1613: XXXX 1669965858620, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965858621 XXXX 1669965858621, Thread 1613: XXXX 1669965858621, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965858720 XXXX 1669965858720, Thread 1613: XXXX 1669965858720, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965858721 XXXX 1669965858721, Thread 1613: XXXX 1669965858721, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965858821 XXXX 1669965858821, Thread 1613: XXXX 1669965858821, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965858822 XXXX 1669965858822, Thread 1613: XXXX 1669965858822, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965858921 XXXX 1669965858921, Thread 1613: XXXX 1669965858921, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965858922 XXXX 1669965858922, Thread 1613: XXXX 1669965858922, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965859021 XXXX 1669965859021, Thread 1613: XXXX 1669965859021, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965859022 XXXX 1669965859022, Thread 1613: XXXX 1669965859022, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965859121 XXXX 1669965859121, Thread 1613: XXXX 1669965859121, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965859122 XXXX 1669965859122, Thread 1613: XXXX 1669965859122, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965859222 XXXX 1669965859222, Thread 1613: XXXX 1669965859222, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965859223 XXXX 1669965859223, Thread 1613: XXXX 1669965859223, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965859323 XXXX 1669965859323, Thread 1613: XXXX 1669965859323, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965859324 XXXX 1669965859324, Thread 1613: XXXX 1669965859324, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965859424 XXXX 1669965859424, Thread 1613: XXXX 1669965859424, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965859425 XXXX 1669965859425, Thread 1613: XXXX 1669965859425, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965859525 XXXX 1669965859525, Thread 1613: XXXX 1669965859525, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965859526 XXXX 1669965859526, Thread 1613: XXXX 1669965859526, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965859625 XXXX 1669965859625, Thread 1613: XXXX 1669965859625, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965859626 XXXX 1669965859626, Thread 1613: XXXX 1669965859626, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965859726 XXXX 1669965859726, Thread 1613: XXXX 1669965859726, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965859727 XXXX 1669965859727, Thread 1613: XXXX 1669965859727, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965859826 XXXX 1669965859826, Thread 1613: XXXX 1669965859826, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965859827 XXXX 1669965859827, Thread 1613: XXXX 1669965859827, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965859926 XXXX 1669965859926, Thread 1613: XXXX 1669965859926, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965859927 XXXX 1669965859927, Thread 1613: XXXX 1669965859927, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965860027 XXXX 1669965860027, Thread 1613: XXXX 1669965860027, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965860027 XXXX 1669965860027, Thread 1613: XXXX 1669965860027, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965860127 XXXX 1669965860127, Thread 1613: XXXX 1669965860127, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965860127 XXXX 1669965860127, Thread 1613: XXXX 1669965860127, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965860227 XXXX 1669965860227, Thread 1613: XXXX 1669965860227, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965860227 XXXX 1669965860227, Thread 1613: XXXX 1669965860227, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965860327 XXXX 1669965860327, Thread 1613: XXXX 1669965860327, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965860328 XXXX 1669965860328, Thread 1613: XXXX 1669965860328, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965860428 XXXX 1669965860428, Thread 1613: XXXX 1669965860428, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965860429 XXXX 1669965860429, Thread 1613: XXXX 1669965860429, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965860528 XXXX 1669965860528, Thread 1613: XXXX 1669965860528, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965860529 XXXX 1669965860529, Thread 1613: XXXX 1669965860529, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965860628 XXXX 1669965860628, Thread 1613: XXXX 1669965860628, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965860629 XXXX 1669965860629, Thread 1613: XXXX 1669965860629, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965860729 XXXX 1669965860729, Thread 1613: XXXX 1669965860729, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965860729 XXXX 1669965860729, Thread 1613: XXXX 1669965860729, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965860829 XXXX 1669965860829, Thread 1613: XXXX 1669965860829, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965860830 XXXX 1669965860830, Thread 1613: XXXX 1669965860830, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965860930 XXXX 1669965860930, Thread 1613: XXXX 1669965860930, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965860931 XXXX 1669965860931, Thread 1613: XXXX 1669965860931, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965861031 XXXX 1669965861031, Thread 1613: XXXX 1669965861031, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965861032 XXXX 1669965861032, Thread 1613: XXXX 1669965861032, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965861132 XXXX 1669965861132, Thread 1613: XXXX 1669965861132, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965861133 XXXX 1669965861133, Thread 1613: XXXX 1669965861133, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965861232 XXXX 1669965861232, Thread 1613: XXXX 1669965861232, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965861233 XXXX 1669965861233, Thread 1613: XXXX 1669965861233, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965861333 XXXX 1669965861333, Thread 1613: XXXX 1669965861333, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965861334 XXXX 1669965861334, Thread 1613: XXXX 1669965861334, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965861433 XXXX 1669965861433, Thread 1613: XXXX 1669965861433, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965861434 XXXX 1669965861434, Thread 1613: XXXX 1669965861434, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965861534 XXXX 1669965861534, Thread 1613: XXXX 1669965861534, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965861535 XXXX 1669965861535, Thread 1613: XXXX 1669965861535, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965861634 XXXX 1669965861634, Thread 1613: XXXX 1669965861634, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965861635 XXXX 1669965861635, Thread 1613: XXXX 1669965861635, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965861734 XXXX 1669965861734, Thread 1613: XXXX 1669965861734, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965861735 XXXX 1669965861735, Thread 1613: XXXX 1669965861735, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965861834 XXXX 1669965861834, Thread 1613: XXXX 1669965861834, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965861835 XXXX 1669965861835, Thread 1613: XXXX 1669965861835, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965861934 XXXX 1669965861934, Thread 1613: XXXX 1669965861934, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965861935 XXXX 1669965861935, Thread 1613: XXXX 1669965861935, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965862034 XXXX 1669965862034, Thread 1613: XXXX 1669965862034, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965862035 XXXX 1669965862035, Thread 1613: XXXX 1669965862035, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965862134 XXXX 1669965862134, Thread 1613: XXXX 1669965862134, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965862136 XXXX 1669965862136, Thread 1613: XXXX 1669965862136, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965862234 XXXX 1669965862234, Thread 1613: XXXX 1669965862234, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965862235 XXXX 1669965862235, Thread 1613: XXXX 1669965862235, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965862334 XXXX 1669965862334, Thread 1613: XXXX 1669965862334, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965862334 XXXX 1669965862334, Thread 1613: XXXX 1669965862334, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965862435 XXXX 1669965862435, Thread 1613: XXXX 1669965862435, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965862435 XXXX 1669965862435, Thread 1613: XXXX 1669965862435, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965862535 XXXX 1669965862535, Thread 1613: XXXX 1669965862535, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965862537 XXXX 1669965862537, Thread 1613: XXXX 1669965862537, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965862636 XXXX 1669965862636, Thread 1613: XXXX 1669965862636, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965862637 XXXX 1669965862637, Thread 1613: XXXX 1669965862637, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965862736 XXXX 1669965862736, Thread 1613: XXXX 1669965862736, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965862737 XXXX 1669965862737, Thread 1613: XXXX 1669965862737, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965862836 XXXX 1669965862836, Thread 1613: XXXX 1669965862836, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965862837 XXXX 1669965862837, Thread 1613: XXXX 1669965862837, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965862936 XXXX 1669965862936, Thread 1613: XXXX 1669965862936, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965862937 XXXX 1669965862937, Thread 1613: XXXX 1669965862937, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965863037 XXXX 1669965863037, Thread 1613: XXXX 1669965863037, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965863038 XXXX 1669965863038, Thread 1613: XXXX 1669965863038, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965863138 XXXX 1669965863138, Thread 1613: XXXX 1669965863138, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965863139 XXXX 1669965863139, Thread 1613: XXXX 1669965863139, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965863238 XXXX 1669965863238, Thread 1613: XXXX 1669965863238, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965863239 XXXX 1669965863239, Thread 1613: XXXX 1669965863239, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965863338 XXXX 1669965863338, Thread 1613: XXXX 1669965863338, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965863339 XXXX 1669965863339, Thread 1613: XXXX 1669965863339, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965863438 XXXX 1669965863438, Thread 1613: XXXX 1669965863438, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965863439 XXXX 1669965863439, Thread 1613: XXXX 1669965863439, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965863538 XXXX 1669965863538, Thread 1613: XXXX 1669965863538, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965863539 XXXX 1669965863539, Thread 1613: XXXX 1669965863539, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965863638 XXXX 1669965863638, Thread 1613: XXXX 1669965863638, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965863639 XXXX 1669965863639, Thread 1613: XXXX 1669965863639, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965863738 XXXX 1669965863738, Thread 1613: XXXX 1669965863738, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965863739 XXXX 1669965863739, Thread 1613: XXXX 1669965863739, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965863839 XXXX 1669965863839, Thread 1613: XXXX 1669965863839, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965863840 XXXX 1669965863840, Thread 1613: XXXX 1669965863840, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965863940 XXXX 1669965863940, Thread 1613: XXXX 1669965863940, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965863941 XXXX 1669965863941, Thread 1613: XXXX 1669965863941, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965864041 XXXX 1669965864041, Thread 1613: XXXX 1669965864041, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965864042 XXXX 1669965864042, Thread 1613: XXXX 1669965864042, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965864141 XXXX 1669965864141, Thread 1613: XXXX 1669965864141, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965864142 XXXX 1669965864142, Thread 1613: XXXX 1669965864142, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965864241 XXXX 1669965864241, Thread 1613: XXXX 1669965864241, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965864242 XXXX 1669965864242, Thread 1613: XXXX 1669965864242, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965864341 XXXX 1669965864341, Thread 1613: XXXX 1669965864341, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965864343 XXXX 1669965864343, Thread 1613: XXXX 1669965864343, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965864441 XXXX 1669965864441, Thread 1613: XXXX 1669965864441, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965864442 XXXX 1669965864442, Thread 1613: XXXX 1669965864442, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965864541 XXXX 1669965864541, Thread 1613: XXXX 1669965864541, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965864542 XXXX 1669965864542, Thread 1613: XXXX 1669965864542, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965864641 XXXX 1669965864641, Thread 1613: XXXX 1669965864641, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965864642 XXXX 1669965864642, Thread 1613: XXXX 1669965864642, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965864741 XXXX 1669965864741, Thread 1613: XXXX 1669965864741, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965864743 XXXX 1669965864743, Thread 1613: XXXX 1669965864743, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965864841 XXXX 1669965864841, Thread 1613: XXXX 1669965864841, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965864842 XXXX 1669965864842, Thread 1613: XXXX 1669965864842, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965864941 XXXX 1669965864941, Thread 1613: XXXX 1669965864941, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965864942 XXXX 1669965864942, Thread 1613: XXXX 1669965864942, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965865041 XXXX 1669965865041, Thread 1613: XXXX 1669965865041, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965865043 XXXX 1669965865043, Thread 1613: XXXX 1669965865043, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965865141 XXXX 1669965865141, Thread 1613: XXXX 1669965865141, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965865143 XXXX 1669965865143, Thread 1613: XXXX 1669965865143, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965865242 XXXX 1669965865242, Thread 1613: XXXX 1669965865242, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965865243 XXXX 1669965865243, Thread 1613: XXXX 1669965865243, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965865342 XXXX 1669965865342, Thread 1613: XXXX 1669965865342, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965865343 XXXX 1669965865343, Thread 1613: XXXX 1669965865343, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965865443 XXXX 1669965865443, Thread 1613: XXXX 1669965865443, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965865444 XXXX 1669965865444, Thread 1613: XXXX 1669965865444, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965865543 XXXX 1669965865543, Thread 1613: XXXX 1669965865543, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965865544 XXXX 1669965865544, Thread 1613: XXXX 1669965865544, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965865643 XXXX 1669965865643, Thread 1613: XXXX 1669965865643, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965865644 XXXX 1669965865644, Thread 1613: XXXX 1669965865644, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965865743 XXXX 1669965865743, Thread 1613: XXXX 1669965865743, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965865744 XXXX 1669965865744, Thread 1613: XXXX 1669965865744, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965865843 XXXX 1669965865843, Thread 1613: XXXX 1669965865843, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965865843 XXXX 1669965865843, Thread 1613: XXXX 1669965865843, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965865943 XXXX 1669965865943, Thread 1613: XXXX 1669965865943, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965865945 XXXX 1669965865945, Thread 1613: XXXX 1669965865945, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965866043 XXXX 1669965866043, Thread 1613: XXXX 1669965866043, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965866044 XXXX 1669965866044, Thread 1613: XXXX 1669965866044, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965866144 XXXX 1669965866144, Thread 1613: XXXX 1669965866144, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965866145 XXXX 1669965866145, Thread 1613: XXXX 1669965866145, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965866244 XXXX 1669965866244, Thread 1613: XXXX 1669965866244, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965866245 XXXX 1669965866245, Thread 1613: XXXX 1669965866245, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965866344 XXXX 1669965866344, Thread 1613: XXXX 1669965866344, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965866345 XXXX 1669965866345, Thread 1613: XXXX 1669965866345, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965866444 XXXX 1669965866444, Thread 1613: XXXX 1669965866444, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965866445 XXXX 1669965866445, Thread 1613: XXXX 1669965866445, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965866544 XXXX 1669965866544, Thread 1613: XXXX 1669965866544, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965866545 XXXX 1669965866545, Thread 1613: XXXX 1669965866545, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965866644 XXXX 1669965866644, Thread 1613: XXXX 1669965866644, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965866645 XXXX 1669965866645, Thread 1613: XXXX 1669965866645, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965866745 XXXX 1669965866745, Thread 1613: XXXX 1669965866745, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965866745 XXXX 1669965866745, Thread 1613: XXXX 1669965866745, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965866846 XXXX 1669965866846, Thread 1613: XXXX 1669965866846, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965866848 XXXX 1669965866848, Thread 1613: XXXX 1669965866848, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965866947 XXXX 1669965866947, Thread 1613: XXXX 1669965866947, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965866947 XXXX 1669965866947, Thread 1613: XXXX 1669965866947, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965867047 XXXX 1669965867047, Thread 1613: XXXX 1669965867047, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965867049 XXXX 1669965867049, Thread 1613: XXXX 1669965867049, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965867148 XXXX 1669965867148, Thread 1613: XXXX 1669965867148, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965867149 XXXX 1669965867149, Thread 1613: XXXX 1669965867149, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965867249 XXXX 1669965867249, Thread 1613: XXXX 1669965867249, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965867250 XXXX 1669965867250, Thread 1613: XXXX 1669965867250, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965867349 XXXX 1669965867349, Thread 1613: XXXX 1669965867349, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965867350 XXXX 1669965867350, Thread 1613: XXXX 1669965867350, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965867449 XXXX 1669965867449, Thread 1613: XXXX 1669965867449, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965867451 XXXX 1669965867451, Thread 1613: XXXX 1669965867451, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965867549 XXXX 1669965867549, Thread 1613: XXXX 1669965867549, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965867550 XXXX 1669965867550, Thread 1613: XXXX 1669965867550, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965867649 XXXX 1669965867649, Thread 1613: XXXX 1669965867649, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965867650 XXXX 1669965867650, Thread 1613: XXXX 1669965867650, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965867749 XXXX 1669965867749, Thread 1613: XXXX 1669965867749, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965867751 XXXX 1669965867751, Thread 1613: XXXX 1669965867751, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965867849 XXXX 1669965867849, Thread 1613: XXXX 1669965867849, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965867850 XXXX 1669965867850, Thread 1613: XXXX 1669965867850, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965867950 XXXX 1669965867950, Thread 1613: XXXX 1669965867950, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965867951 XXXX 1669965867951, Thread 1613: XXXX 1669965867951, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965868050 XXXX 1669965868050, Thread 1613: XXXX 1669965868050, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965868051 XXXX 1669965868051, Thread 1613: XXXX 1669965868051, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965868150 XXXX 1669965868150, Thread 1613: XXXX 1669965868150, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965868151 XXXX 1669965868151, Thread 1613: XXXX 1669965868151, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965868250 XXXX 1669965868250, Thread 1613: XXXX 1669965868250, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965868251 XXXX 1669965868251, Thread 1613: XXXX 1669965868251, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965868351 XXXX 1669965868351, Thread 1613: XXXX 1669965868351, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965868352 XXXX 1669965868352, Thread 1613: XXXX 1669965868352, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965868452 XXXX 1669965868452, Thread 1613: XXXX 1669965868452, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965868453 XXXX 1669965868453, Thread 1613: XXXX 1669965868453, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965868552 XXXX 1669965868552, Thread 1613: XXXX 1669965868552, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965868553 XXXX 1669965868553, Thread 1613: XXXX 1669965868553, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965868652 XXXX 1669965868652, Thread 1613: XXXX 1669965868652, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965868653 XXXX 1669965868653, Thread 1613: XXXX 1669965868653, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965868752 XXXX 1669965868752, Thread 1613: XXXX 1669965868752, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965868753 XXXX 1669965868753, Thread 1613: XXXX 1669965868753, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965868853 XXXX 1669965868853, Thread 1613: XXXX 1669965868853, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965868854 XXXX 1669965868854, Thread 1613: XXXX 1669965868854, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965868953 XXXX 1669965868953, Thread 1613: XXXX 1669965868953, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965868954 XXXX 1669965868954, Thread 1613: XXXX 1669965868954, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965869053 XXXX 1669965869053, Thread 1613: XXXX 1669965869053, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965869054 XXXX 1669965869054, Thread 1613: XXXX 1669965869054, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965869153 XXXX 1669965869153, Thread 1613: XXXX 1669965869153, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965869154 XXXX 1669965869154, Thread 1613: XXXX 1669965869154, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965869253 XXXX 1669965869253, Thread 1613: XXXX 1669965869253, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965869255 XXXX 1669965869255, Thread 1613: XXXX 1669965869255, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965869353 XXXX 1669965869353, Thread 1613: XXXX 1669965869353, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965869354 XXXX 1669965869354, Thread 1613: XXXX 1669965869354, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965869454 XXXX 1669965869454, Thread 1613: XXXX 1669965869454, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965869455 XXXX 1669965869455, Thread 1613: XXXX 1669965869455, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965869555 XXXX 1669965869555, Thread 1613: XXXX 1669965869555, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965869556 XXXX 1669965869556, Thread 1613: XXXX 1669965869556, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965869655 XXXX 1669965869655, Thread 1613: XXXX 1669965869655, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965869656 XXXX 1669965869656, Thread 1613: XXXX 1669965869656, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965869755 XXXX 1669965869755, Thread 1613: XXXX 1669965869755, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965869756 XXXX 1669965869756, Thread 1613: XXXX 1669965869756, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965869856 XXXX 1669965869856, Thread 1613: XXXX 1669965869856, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965869857 XXXX 1669965869857, Thread 1613: XXXX 1669965869857, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965869956 XXXX 1669965869956, Thread 1613: XXXX 1669965869956, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965869958 XXXX 1669965869958, Thread 1613: XXXX 1669965869958, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965870057 XXXX 1669965870057, Thread 1613: XXXX 1669965870057, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965870058 XXXX 1669965870058, Thread 1613: XXXX 1669965870058, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965870157 XXXX 1669965870157, Thread 1613: XXXX 1669965870157, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965870158 XXXX 1669965870158, Thread 1613: XXXX 1669965870158, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965870257 XXXX 1669965870257, Thread 1613: XXXX 1669965870257, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965870259 XXXX 1669965870259, Thread 1613: XXXX 1669965870259, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965870357 XXXX 1669965870357, Thread 1613: XXXX 1669965870357, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965870358 XXXX 1669965870358, Thread 1613: XXXX 1669965870358, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965870458 XXXX 1669965870458, Thread 1613: XXXX 1669965870458, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965870460 XXXX 1669965870460, Thread 1613: XXXX 1669965870460, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965870559 XXXX 1669965870559, Thread 1613: XXXX 1669965870559, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965870560 XXXX 1669965870560, Thread 1613: XXXX 1669965870560, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965870660 XXXX 1669965870660, Thread 1613: XXXX 1669965870660, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965870661 XXXX 1669965870661, Thread 1613: XXXX 1669965870661, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965870760 XXXX 1669965870760, Thread 1613: XXXX 1669965870760, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965870761 XXXX 1669965870761, Thread 1613: XXXX 1669965870761, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965870860 XXXX 1669965870860, Thread 1613: XXXX 1669965870860, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965870860 XXXX 1669965870860, Thread 1613: XXXX 1669965870860, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965870961 XXXX 1669965870961, Thread 1613: XXXX 1669965870961, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965870962 XXXX 1669965870962, Thread 1613: XXXX 1669965870962, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965871061 XXXX 1669965871061, Thread 1613: XXXX 1669965871061, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965871063 XXXX 1669965871063, Thread 1613: XXXX 1669965871063, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965871161 XXXX 1669965871161, Thread 1613: XXXX 1669965871161, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965871162 XXXX 1669965871162, Thread 1613: XXXX 1669965871162, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965871262 XXXX 1669965871262, Thread 1613: XXXX 1669965871262, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965871263 XXXX 1669965871263, Thread 1613: XXXX 1669965871263, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965871362 XXXX 1669965871362, Thread 1613: XXXX 1669965871362, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965871363 XXXX 1669965871363, Thread 1613: XXXX 1669965871363, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965871462 XXXX 1669965871462, Thread 1613: XXXX 1669965871462, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965871464 XXXX 1669965871464, Thread 1613: XXXX 1669965871464, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965871563 XXXX 1669965871563, Thread 1613: XXXX 1669965871563, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965871564 XXXX 1669965871564, Thread 1613: XXXX 1669965871564, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965871663 XXXX 1669965871663, Thread 1613: XXXX 1669965871663, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965871664 XXXX 1669965871664, Thread 1613: XXXX 1669965871664, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965871764 XXXX 1669965871764, Thread 1613: XXXX 1669965871764, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965871765 XXXX 1669965871765, Thread 1613: XXXX 1669965871765, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965871864 XXXX 1669965871864, Thread 1613: XXXX 1669965871864, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965871865 XXXX 1669965871865, Thread 1613: XXXX 1669965871865, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965871965 XXXX 1669965871965, Thread 1613: XXXX 1669965871965, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965871966 XXXX 1669965871966, Thread 1613: XXXX 1669965871966, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965872065 XXXX 1669965872065, Thread 1613: XXXX 1669965872065, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965872066 XXXX 1669965872066, Thread 1613: XXXX 1669965872066, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965872165 XXXX 1669965872165, Thread 1613: XXXX 1669965872165, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965872167 XXXX 1669965872167, Thread 1613: XXXX 1669965872167, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965872266 XXXX 1669965872266, Thread 1613: XXXX 1669965872266, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965872267 XXXX 1669965872267, Thread 1613: XXXX 1669965872267, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965872367 XXXX 1669965872367, Thread 1613: XXXX 1669965872367, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965872368 XXXX 1669965872368, Thread 1613: XXXX 1669965872368, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965872467 XXXX 1669965872467, Thread 1613: XXXX 1669965872467, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965872468 XXXX 1669965872468, Thread 1613: XXXX 1669965872468, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965872567 XXXX 1669965872567, Thread 1613: XXXX 1669965872567, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965872568 XXXX 1669965872568, Thread 1613: XXXX 1669965872568, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965872667 XXXX 1669965872667, Thread 1613: XXXX 1669965872667, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965872668 XXXX 1669965872668, Thread 1613: XXXX 1669965872668, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965872767 XXXX 1669965872767, Thread 1613: XXXX 1669965872767, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965872768 XXXX 1669965872768, Thread 1613: XXXX 1669965872768, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965872868 XXXX 1669965872868, Thread 1613: XXXX 1669965872868, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965872869 XXXX 1669965872869, Thread 1613: XXXX 1669965872869, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965872968 XXXX 1669965872968, Thread 1613: XXXX 1669965872968, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965872969 XXXX 1669965872969, Thread 1613: XXXX 1669965872969, Exiting Thread 1613: Commands::runScriptBasic  
+
+1613 1669965873064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_ATSAMS70Q20B Pre:HaltTarget
+1613 1669965873064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_ATSAMS70Q20B Payload
+1613 1669965873064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_ATSAMS70Q20B null
+1613 1669965873064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_ATSAMS70Q20B Payload End
+1613 1669965873064 XXXX 1669965873064, Thread 1613: XXXX 1669965873064, Entering Thread 1613: Commands::runScriptBasic, script name = Halt, timeOut = -1 ms  
+1613 1669965873065 XXXX 1669965873065, Thread 1613: XXXX 1669965873065, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873065 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_ATSAMS70Q20B Post:HaltTarget
+1613 1669965873065 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_ATSAMS70Q20B Return Value
+1613 1669965873065 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_ATSAMS70Q20B true
+1613 1669965873065 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_ATSAMS70Q20B Return End
+1613 1669965873065 XXXX 1669965873065, Thread 1613: XXXX 1669965873065, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873066 XXXX 1669965873066, Thread 1613: XXXX 1669965873066, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873069 XXXX 1669965873069, Thread 1613: XXXX 1669965873069, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873070 XXXX 1669965873070, Thread 1613: XXXX 1669965873070, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873169 XXXX 1669965873169, Thread 1613: XXXX 1669965873169, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873170 XXXX 1669965873170, Thread 1613: XXXX 1669965873170, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873269 XXXX 1669965873269, Thread 1613: XXXX 1669965873269, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873270 XXXX 1669965873270, Thread 1613: XXXX 1669965873270, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873369 XXXX 1669965873369, Thread 1613: XXXX 1669965873369, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873370 XXXX 1669965873370, Thread 1613: XXXX 1669965873370, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873469 XXXX 1669965873469, Thread 1613: XXXX 1669965873469, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873470 XXXX 1669965873470, Thread 1613: XXXX 1669965873470, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873569 XXXX 1669965873569, Thread 1613: XXXX 1669965873569, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873570 XXXX 1669965873570, Thread 1613: XXXX 1669965873570, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873669 XXXX 1669965873669, Thread 1613: XXXX 1669965873669, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873670 XXXX 1669965873670, Thread 1613: XXXX 1669965873670, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873769 XXXX 1669965873769, Thread 1613: XXXX 1669965873769, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873770 XXXX 1669965873770, Thread 1613: XXXX 1669965873770, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873869 XXXX 1669965873869, Thread 1613: XXXX 1669965873869, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873870 XXXX 1669965873870, Thread 1613: XXXX 1669965873870, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965873970 XXXX 1669965873970, Thread 1613: XXXX 1669965873970, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965873971 XXXX 1669965873971, Thread 1613: XXXX 1669965873971, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965874071 XXXX 1669965874071, Thread 1613: XXXX 1669965874071, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965874072 XXXX 1669965874072, Thread 1613: XXXX 1669965874072, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965874171 XXXX 1669965874171, Thread 1613: XXXX 1669965874171, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965874172 XXXX 1669965874172, Thread 1613: XXXX 1669965874172, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965874271 XXXX 1669965874271, Thread 1613: XXXX 1669965874271, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965874272 XXXX 1669965874272, Thread 1613: XXXX 1669965874272, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965874372 XXXX 1669965874372, Thread 1613: XXXX 1669965874372, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965874373 XXXX 1669965874373, Thread 1613: XXXX 1669965874373, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965874473 XXXX 1669965874473, Thread 1613: XXXX 1669965874473, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965874474 XXXX 1669965874474, Thread 1613: XXXX 1669965874474, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965874573 XXXX 1669965874573, Thread 1613: XXXX 1669965874573, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965874574 XXXX 1669965874574, Thread 1613: XXXX 1669965874574, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965874674 XXXX 1669965874674, Thread 1613: XXXX 1669965874674, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965874675 XXXX 1669965874675, Thread 1613: XXXX 1669965874675, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965874774 XXXX 1669965874774, Thread 1613: XXXX 1669965874774, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965874775 XXXX 1669965874775, Thread 1613: XXXX 1669965874775, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965874875 XXXX 1669965874875, Thread 1613: XXXX 1669965874875, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965874876 XXXX 1669965874876, Thread 1613: XXXX 1669965874876, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965874975 XXXX 1669965874975, Thread 1613: XXXX 1669965874975, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965874976 XXXX 1669965874976, Thread 1613: XXXX 1669965874976, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965875075 XXXX 1669965875075, Thread 1613: XXXX 1669965875075, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965875076 XXXX 1669965875076, Thread 1613: XXXX 1669965875076, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965875175 XXXX 1669965875175, Thread 1613: XXXX 1669965875175, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965875176 XXXX 1669965875176, Thread 1613: XXXX 1669965875176, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965875276 XXXX 1669965875276, Thread 1613: XXXX 1669965875276, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965875277 XXXX 1669965875277, Thread 1613: XXXX 1669965875277, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965875376 XXXX 1669965875376, Thread 1613: XXXX 1669965875376, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965875376 XXXX 1669965875376, Thread 1613: XXXX 1669965875376, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965875477 XXXX 1669965875477, Thread 1613: XXXX 1669965875477, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965875477 XXXX 1669965875477, Thread 1613: XXXX 1669965875477, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965875578 XXXX 1669965875578, Thread 1613: XXXX 1669965875578, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965875578 XXXX 1669965875578, Thread 1613: XXXX 1669965875578, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965875680 XXXX 1669965875680, Thread 1613: XXXX 1669965875680, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965875681 XXXX 1669965875681, Thread 1613: XXXX 1669965875681, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965875780 XXXX 1669965875780, Thread 1613: XXXX 1669965875780, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965875781 XXXX 1669965875781, Thread 1613: XXXX 1669965875781, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965875881 XXXX 1669965875881, Thread 1613: XXXX 1669965875881, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965875882 XXXX 1669965875882, Thread 1613: XXXX 1669965875882, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965875981 XXXX 1669965875981, Thread 1613: XXXX 1669965875981, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965875982 XXXX 1669965875982, Thread 1613: XXXX 1669965875982, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965876082 XXXX 1669965876082, Thread 1613: XXXX 1669965876082, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965876082 XXXX 1669965876082, Thread 1613: XXXX 1669965876082, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965876182 XXXX 1669965876182, Thread 1613: XXXX 1669965876182, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965876183 XXXX 1669965876183, Thread 1613: XXXX 1669965876183, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965876282 XXXX 1669965876282, Thread 1613: XXXX 1669965876282, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965876283 XXXX 1669965876283, Thread 1613: XXXX 1669965876283, Exiting Thread 1613: Commands::runScriptBasic  
+1613 1669965876382 XXXX 1669965876382, Thread 1613: XXXX 1669965876382, Entering Thread 1613: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1613 1669965876383 XXXX 1669965876383, Thread 1613: com.Send returned false 
+1613 1669965876384 XXXX 1669965876384, Thread 1613: transfer: exception after writeHeaderAndGetResult null 
+1613 1669965876385 XXXX 1669965876385, Thread 1613: XXXX 1669965876385, Entering Thread 1613: ToolCommUsb::recoverFromProtocolError, type = NO_SCRIPT  
+1613 1669965876385 XXXX 1669965876385, Thread 1613: Send Abort Script Engine Command 
+1613 1669965876385 XXXX 1669965876385, Thread 1613: XXXX 1669965876385, Entering Thread 1613: ToolCommUsb::killScriptEngine  
+1613 1669965876386 XXXX 1669965876386, Thread 1613: com.Send returned false 
+1613 1669965876386 XXXX 1669965876386, Thread 1613: Failed sending Abort Script Engine Command. Set nuclear option = true 
+1613 1669965876386 XXXX 1669965876386, Thread 1613: About to nuke 
+1613 1669965876386 XXXX 1669965876386, Thread 1613: XXXX 1669965876386, Entering Thread 1613: ToolCommUsb::nuclearOption  
+1613 1669965876386 XXXX 1669965876386, Thread 1613: com.Send returned false 

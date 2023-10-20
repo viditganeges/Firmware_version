@@ -1,0 +1,12 @@
+cleanerdetectcommon.pbi: \
+  F:\Ren\Given\ to\ Ganges\05-03-2021\Track\ Changer\Source\Proximity\cleanerdetectcommon.c \
+  F:\Ren\Given\ to\ Ganges\05-03-2021\Track\ Changer\Source\Proximity/cleanerdetectcommon.h \
+  F:\Ren\Given\ to\ Ganges\05-03-2021\Track\ Changer\Source\Proximity/cleanerdetect1.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdbool.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  D:\\Technical\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  D:\Technical\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  F:\Ren\Given\ to\ Ganges\05-03-2021\Track\ Changer\Source\Proximity/cleanerdetect2.h

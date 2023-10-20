@@ -1,0 +1,13 @@
+configName: sam_e70_xult
+folderName: ''
+format_version: v1.0
+frameworkPath: ../../../../../..
+processor: ATSAMS70Q20B
+projectName: ''
+settings:
+  PackageFilter: bsp;classb_sam_e70_s70_v70_v71;core;core_apps_sam_e70_s70_v70_v71;csp;csp_apps_sam_e70_s70_v70_v71;dev_packs;harmony-services;quick_docs;usb
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_RECENT
+  DFPPath: .\dev_packs\Microchip\SAMS70_DFP\4.9.103\sams70b\atdf\ATSAMS70Q20B.atdf
